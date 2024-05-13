@@ -3,4 +3,3 @@
 ---------------------------------------------------------------------------------------------------
 
 ![Ekran görüntüsü 2024-05-14 014938](https://github.com/yunusyavuzhanafsar/Simple-Platform-Game/assets/160525505/4256a957-e6f6-43c7-bd3c-69bb53f6b29d)
-![Ekran görüntüsü 2024-05-14 014938](https://github.com/yunusyavuzhanafsar/Simple-Platform-Game/assets/160525505/4256a957-e6f6-43c7-bd3c-69bb53f6b29d)
